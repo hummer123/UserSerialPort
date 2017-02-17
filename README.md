@@ -1,11 +1,14 @@
 # UserSerialPort
-A serial debugging assistant with waveform display
+**A serial debugging assistant with waveform display*_
 
 如上标题，这是一个可以绘制数据波形的串口调试助手，基于Qt开发，完成在2016年9月份，最近空闲了才决定整理一下并上传到github，
 OK,开始进入正题。本软件实现的功能有如下：
 1. 基本的串口收发功能,(之前为了配合公司的调试做了两个发送区，有一个不可以定时发送)；
 2. 发送文件和保存接收的数据；
 3. 接收特定格式数据并绘制波形：
+
+主界面-次界面如下：
+![image](https://github.com/hummer123/UserSerialPort/raw/master/README-PIC/major.png)
 
 ## 串口的数据接收
 Qt中由于串口类使用的是外带的，*这个类在串口接收时可能一段数据会分几次接收到*，有两种方法可以解决：
