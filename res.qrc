@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="serialMain">images/serialMain.png</file>
+        <file alias="paintWave">images/paintWave.png</file>
+        <file alias="closeWave">images/closeWave.png</file>
+    </qresource>
+</RCC>
