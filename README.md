@@ -7,9 +7,9 @@ OK,开始进入正题。本软件实现的功能有如下:</br>
 > * 2. 发送文件和保存接收的数据:
 > * 3. 接收特定格式数据并绘制波形:
 
-> **主界面:**
+**主界面:** <br>
 ![image](https://github.com/hummer123/UserSerialPort/raw/master/README-PIC/major.png)
-> **次界面:**
+**次界面:** <br>
 ![image](https://github.com/hummer123/UserSerialPort/raw/master/README-PIC/minor.png)
 
 ## 串口的数据接收
