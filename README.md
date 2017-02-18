@@ -9,6 +9,7 @@ OK,开始进入正题。本软件实现的功能有如下:</br>
 
 **主界面:** <br>
 ![image](https://github.com/hummer123/UserSerialPort/raw/master/README-PIC/major.png)
+
 **次界面:** <br>
 ![image](https://github.com/hummer123/UserSerialPort/raw/master/README-PIC/minor.png)
 
